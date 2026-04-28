@@ -15,7 +15,7 @@ Right now I'm looking for my first developer role.
 
 #### 🚀 Projects I'm proud of
 
-**[StratPad](https://stratpad.app)** — Capstone project. A modular, drag-and-drop dashboard for tracking strategy session outputs. Built with Next.js, React, Tailwind, and react-grid-layout in a 5-person agile team.
+**[StratPad](https://stratpad.app)** — Capstone project. A modular, drag-and-drop dashboard for tracking strategy session outputs. Built with Next.js, React, MUI, and react-grid-layout in a 5-person agile team.
 *Repo: [github.com/JoshuaHorsley/stratpad](https://github.com/JoshuaHorsley/stratpad)*
 
 **Ithilien** — Houseplant care web app integrating the Trefle species API. Full-stack build on React, Express, Prisma, and MySQL with session-based auth and per-user access controls.
