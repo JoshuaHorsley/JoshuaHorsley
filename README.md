@@ -15,14 +15,13 @@ Right now I'm looking for my first developer role.
 
 #### 🚀 Projects I'm proud of
 
-**[StratPad](https://stratpad.app)** — Capstone project. A modular, drag-and-drop dashboard for tracking strategy session outputs. Built with Next.js, React, MUI, and react-grid-layout in a 5-person agile team.
-*Repo: [github.com/JoshuaHorsley/stratpad](https://github.com/JoshuaHorsley/stratpad)*
+**StratPad** — Capstone project. A modular, drag-and-drop dashboard for tracking strategy session outputs. Built with Next.js, React, MUI, and react-grid-layout in a 5-person agile team.
+
 
 **Ithilien** — Houseplant care web app integrating the Trefle species API. Full-stack build on React, Express, Prisma, and MySQL with session-based auth and per-user access controls.
 *Repo: [github.com/JoshuaHorsley/ithilien](https://github.com/JoshuaHorsley/ithilien)*
 
 **Gift Tracker** — Cross-platform Electron desktop app on a SQL backend, built with multi-tier architecture separating data, business logic, and presentation layers.
-*Repo: [github.com/JoshuaHorsley/gift-tracker](https://github.com/JoshuaHorsley/gift-tracker)*
 
 ---
 
