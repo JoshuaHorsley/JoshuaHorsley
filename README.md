@@ -1,8 +1,6 @@
 ### Hi, I'm Josh 👋
 
-I'm a recent Software Engineering Technology grad from Conestoga College (April 2026), based in Ontario, Canada. I like building things people actually use — clean UIs, thoughtful database design, and code my teammates won't curse me for later.
-
-Right now I'm looking for my first developer role.
+I'm a recent Software Engineering Technology grad from Conestoga College (April 2026), based in Ontario, Canada. I enjoy front-end work and full-stack web projects, and I'm looking for my first developer role.
 
 ---
 
